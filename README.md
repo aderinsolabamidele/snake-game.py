@@ -29,4 +29,4 @@ Shows the player's score (length of the snake) on the screen.
 Running the Game:
 
 The gameLoop() function is called to start the game.
-Overall, this Snake game implementation provides a basic gameplay experience where the player controls a snake to eat food and avoid collisions. It's a good starting point for learning Pygame and game development concepts.
+Overall, this Snake game implementation provides a basic gameplay experience where the player controls a snake to eat food and avoid collisions. 
